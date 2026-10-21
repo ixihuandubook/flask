@@ -50,4 +50,4 @@ See our [detailed contributing documentation][contrib] for many ways to
 contribute, including reporting issues, requesting features, asking or answering
 questions, and making PRs.
 
-[contrib]: https://palletsprojects.com/contributing/
+[contrib]: https://palletsprojects.com/contributi练习一下改动技巧。
