@@ -25,6 +25,7 @@ def test_register(client, app):
     ("username", "password", "message"),
     (
         ("", "", b"Username is required."),
+        ("   ", "password", b"Username is required."),
         ("a", "", b"Password is required."),
         ("test", "test", b"already registered"),
     ),
